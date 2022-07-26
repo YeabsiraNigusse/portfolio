@@ -1,0 +1,20 @@
+*{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin: 40px;
+    padding: 10px;
+    background-color: silver;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+.item{
+    color: red;
+    font-size: 20px;
+    background-color: blueviolet;
+    padding: 15px;
+    margin: 10px;
+    flex-grow: 1;
+}
