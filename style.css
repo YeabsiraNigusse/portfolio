@@ -60,11 +60,17 @@ h1{
 }
 h2{
     font-size: 50px;
+    font-weight: 1000px;
+}
+.subParagraph{
+    margin: 0;
+    font-weight: 600px;
+    font-size: 35px;
 }
 p{
     margin: 0;
     font-weight: 600px;
-    font-size: 35px;
+    font-size: 20px;
 }
 .subtext{
     font-size: 15px;
@@ -80,7 +86,7 @@ p{
 .sub-section{
     display: flex;
     justify-content: space-around;
-    padding:80px;
+    padding:50px;
 }
 .headshot{
     width: 200px;
